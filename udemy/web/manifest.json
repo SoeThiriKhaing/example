@@ -1,6 +1,6 @@
 {
-    "name": "udemy",
-    "short_name": "udemy",
+    "name": "soe",
+    "short_name": "soe",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
